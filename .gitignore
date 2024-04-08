@@ -3,3 +3,4 @@ artifacts
 typechain-types
 cache
 .vscode
+.env
